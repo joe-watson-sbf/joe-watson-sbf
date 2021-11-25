@@ -21,4 +21,4 @@
 - [INSTAGRAM](https://www.instagram.com/joe_watson_sbf)
 - [TWITTER](https://www.twitter.com/joe_watson_sbf) 
 - [FACEBOOK](https://www.facebook.com/joesbf)
-- [YOUTUBE](https://www.youtube.com/channel/UC1D68nJp6gO9GovrDOHksgA)
+- [YOUTUBE](https://www.youtube.com/channel/UC1D68nJp6gO9GovrDOHksgA/?sub_confirmation=1)
