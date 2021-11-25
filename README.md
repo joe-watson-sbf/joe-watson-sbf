@@ -18,7 +18,7 @@
 
 <h1> Follow me on: </h1>
 
-- [INSTAGRAM](https://www.instagram.com/joe_watson_sbf)
-- [TWITTER](https://www.twitter.com/joe_watson_sbf) 
+- [INSTAGRAM](https://instagram.com/joe_watson_sbf?utm_medium=copy_link)
 - [FACEBOOK](https://www.facebook.com/joesbf)
+- [TWITTER](https://www.twitter.com/joe_watson_sbf) 
 - [YOUTUBE](https://www.youtube.com/channel/UC1D68nJp6gO9GovrDOHksgA/?sub_confirmation=1)
