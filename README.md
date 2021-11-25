@@ -3,7 +3,7 @@
 <div> 
   
   <div >
-      <img width = "75%" src="https://user-images.githubusercontent.com/49710538/143495008-fe00028e-47b5-4e07-b739-d0613b7d5e6e.png" alt="profil" />
+      <img src="https://user-images.githubusercontent.com/49710538/143495008-fe00028e-47b5-4e07-b739-d0613b7d5e6e.png" alt="profil" />
   </div>
 
   <h2> About me! </h2> 
