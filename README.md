@@ -1,6 +1,6 @@
 ### Joseph Watzson 🧑‍💻
 
-![img_2.png](C:\Users\joseph.watson\Pictures\joe banner.png "Joe Watson SBF")
+![joe banner](https://user-images.githubusercontent.com/49710538/143495008-fe00028e-47b5-4e07-b739-d0613b7d5e6e.png)
 
 
 **I consider myself a respectful, responsible person, willing to learn and face new challenges, a lover of computer programming with command of programming languages such as _Java, SQL, Python, C#, JavaScript (NodeJS environment)_ etc., but i focus more on **Java** for the _**back-end**_ and **ReactJs** for the _**front-end**_, with management of design and version control tools such as Git, GitHub, Azure DevOps, Figma, Gimp and Canva.**
