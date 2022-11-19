@@ -9,7 +9,7 @@
   <img src="https://user-images.githubusercontent.com/49710538/202865641-7f94bb2a-eade-4e43-b26a-b5c27c5f6e21.jpeg" alt="profil" />
 </div>
 
-  <br/><br/>
+  <hr/>
 
 <p>
   I am a certified software developer with over 3 years of experience
