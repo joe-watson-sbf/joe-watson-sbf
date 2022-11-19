@@ -5,7 +5,7 @@
 <div>
 
 <div>
-  <img src="https://user-images.githubusercontent.com/49710538/202864034-09fdef82-eb9a-433d-bd06-ddd17adbec29.png" alt="profil" />
+  <img src="https://user-images.githubusercontent.com/49710538/202865641-7f94bb2a-eade-4e43-b26a-b5c27c5f6e21.jpeg" alt="profil" />
 </div>
 
 
