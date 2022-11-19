@@ -34,7 +34,7 @@
 </p>
   <hr/>
   <div>
-   &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://joedev.vakaks.com" target="_blank">DOWNLOAD CV</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+   &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://github.com/joe-watson-sbf/joe-watson-sbf/files/10047614/JOSEPH.WATZSON.-.CV.pdf" target="_blank">DOWNLOAD CV</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
     <a href="https://joedev.vakaks.com" target="_blank">CONTACT ME</a>
   </div>
 
