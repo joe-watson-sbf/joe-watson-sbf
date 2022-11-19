@@ -27,7 +27,7 @@
   In July 2019, I started working as a freelancer,
   and here I do front end and backend work using multiple programming
   languages. At the end of 2020, a friend invited me to collaborate with
-  him in a startup called <strong>Collabo Branding Agency</strong>,
+  him in a startup called <a href="https://www.collabohtbrandingagcy.com" target="_blank">COLLABO BRANDING AGENCY</a>,
   and I'm working with them as of right now. Every month we develop at
   least 5 websites using multiples technologies, sometimes ReactJS, Java,
   WordPress, Shopify etc.
