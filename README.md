@@ -32,6 +32,11 @@
   least 5 websites using multiples technologies, sometimes ReactJS, Java,
   WordPress, Shopify etc.
 </p>
+  <hr/>
+  <div>
+   &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://joedev.vakaks.com" target="_blank">DOWNLOAD CV</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+    <a href="https://joedev.vakaks.com" target="_blank">CONTACT ME</a>
+  </div>
 
 </div>
 
