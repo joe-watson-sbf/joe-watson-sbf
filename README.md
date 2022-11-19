@@ -1,6 +1,7 @@
 <div>
 
-<h1 style="width:100%; text-align: center;"> 💻 Joseph Watzson 💻 </h1>
+<h1> 💻 Joseph Watzson 💻 </h1>
+  <br/> <br/>
 
 <div>
 
@@ -8,6 +9,7 @@
   <img src="https://user-images.githubusercontent.com/49710538/202865641-7f94bb2a-eade-4e43-b26a-b5c27c5f6e21.jpeg" alt="profil" />
 </div>
 
+  <br/><br/>
 
 <p>
   I am a certified software developer with over 3 years of experience
@@ -34,7 +36,7 @@
 </div>
 
 
-
+<br/><br/>
 <h1> Follow me on: </h1>
 
 - [INSTAGRAM](https://instagram.com/joe_watson_sbf?utm_medium=copy_link)
