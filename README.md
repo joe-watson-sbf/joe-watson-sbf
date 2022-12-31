@@ -23,7 +23,7 @@
   <strong>Java/Spring boot</strong> for backend and
   <strong>JavaScript/React</strong> for frontend.
   
-  For any project/collaboration contact me!
+  <strong>For any project/collaboration contact me!</strong>
 
 </p>
   <hr/>
