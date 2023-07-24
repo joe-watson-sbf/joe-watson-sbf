@@ -1,4 +1,4 @@
-<div>
+<div >
 
 <h1> 💻 Joseph Watzson 💻 </h1>
   <br/> <br/>
@@ -6,9 +6,8 @@
 <div>
 
 <div>
-  <img src="https://user-images.githubusercontent.com/49710538/202865641-7f94bb2a-eade-4e43-b26a-b5c27c5f6e21.jpeg" alt="profil" />
+  <img src="https://github.com/joe-watson-sbf/joe-watson-sbf/assets/49710538/73406276-9c4d-4d68-853d-bead9acad5ba" alt="profil" />
 </div>
-
   <hr/>
 
 <p>
