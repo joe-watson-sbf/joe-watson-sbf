@@ -11,11 +11,13 @@
   <hr/>
 
 <p>
-Greetings! Welcome to my GitHub profile!
+I'm a <strong>software developer</strong> who loves to build things. I'm passionate about using code to solve problems and create new experiences. I'm also a big believer in open source software and I'm always happy to help others learn and grow.
 
-I'm a passionate Software Developer proficient in Java, Javascript, and ReactJs. My expertise extends across the entire software development life cycle, and I thrive on utilizing Agile methodologies to deliver projects punctually and within budget. Collaborating closely with clients to grasp their needs and offering innovative solutions is something I truly enjoy. As a highly motivated self-starter with an eye for detail, I excel in problem-solving.
+I'm proficient in a variety of programming languages, including Java, JavaScript, NestJs, NextJs and ReactJS. I'm also familiar with a variety of software development methodologies, including Agile and Waterfall. I'm a highly motivated and self-directed individual with a proven track record of success, I enjoy working with others to achieve common goals.
 
-If you seek a dependable and skilled Software Developer with advanced proficiencies in Java, Javascript, and ReactJs, I'd be a perfect match for your team/project. Let's connect and create something amazing together!
+If you're looking for a software developer who is passionate, creative, and driven, I'd be a great fit for your team. I'm always looking for new challenges and I'm eager to learn new things. I'm also a great team player and I'm always willing to help others.
+
+Let's build something amazing together!
 
 </p>
   <hr/>
