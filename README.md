@@ -1,5 +1,5 @@
 
-<img  align="left" height="350" src="https://user-images.githubusercontent.com/49710538/261774727-912c5806-7234-4e5f-bf62-4870ffcb5937.jpeg" alt="profil" />
+<img  align="left" height="350" src="https://user-images.githubusercontent.com/49710538/261774727-912c5806-7234-4e5f-bf62-4870ffcb5937.jpeg" alt="profil" /> <br/>
 
 <h1>JOSEPH WATZSON 💻 </h1>
 
