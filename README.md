@@ -1,24 +1,14 @@
-<div >
 
-<h1> 💻 Joseph Watzson 💻 </h1>
-  <br/> <br/>
+<img  align="left" height="350" src="https://user-images.githubusercontent.com/49710538/261774727-912c5806-7234-4e5f-bf62-4870ffcb5937.jpeg" alt="profil" />
 
-<div>
+<h1>JOSEPH WATZSON 💻 </h1>
 
-<div align="center" height="150px">
-  <img src="https://github.com/joe-watson-sbf/joe-watson-sbf/assets/49710538/73406276-9c4d-4d68-853d-bead9acad5ba" alt="profil" />
-</div>
-
-
-<hr/>
-
-###
 
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -64,11 +54,10 @@ I'm proficient in a variety of programming languages, including Java, JavaScript
 
 If you're looking for a software developer who is passionate, creative, and driven, I'd be a great fit for your team. I'm always looking for new challenges and I'm eager to learn new things. I'm also a great team player and I'm always willing to help others.
 
-Let's build something amazing together!
+<h4>Let's build something amazing together!</h4>
 
 
-<br/><br/>
-
+<hr/>
 
 ###
 
@@ -92,23 +81,6 @@ Let's build something amazing together!
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
 </div>
-
-###
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
