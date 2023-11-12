@@ -1,4 +1,3 @@
-<img  align="left" height="350" width="350" src="https://user-images.githubusercontent.com/49710538/275713825-d47e7b51-a6df-487a-b888-f5d2a672ef78.png" alt="profil" />
 
 <h1>JOSEPH WATZSON 💻 </h1>
 
