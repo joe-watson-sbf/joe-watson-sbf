@@ -1,8 +1,6 @@
-# 💫 About Me:
+ # [WATZSON JOSEPH](https://joe.vakaks.com)
 
- ## [WATZSON JOSEPH](https://joe.vakaks.com)
-
-I'm a passionate software engineer with experience in creating high-performance, user-friendly systems. Proficient in Java, Spring Boot, Nest.js, JavaScript, React.js, and more, I deliver reliable, scalable applications that meet business needs.<br><br>Always eager for new challenges and opportunities to collaborate, let's build something amazing together!
+A passionate software engineer with experience in creating high-performance, user-friendly systems. Proficient in Java, Spring Boot, Nest.js, JavaScript, React.js, and more, I deliver reliable, scalable applications that meet business needs.<br><br>Always eager for new challenges and opportunities to collaborate, let's build something amazing together!
 
 
 ## 💻 Tech Stack:
